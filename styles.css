@@ -45,6 +45,15 @@
     padding: 0px;
 }
     
+button.active > i {
+    color: blue !important;
+    
+  }
 
-
-
+i.modal-btn {
+    width: 38px;
+    height: 38px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
